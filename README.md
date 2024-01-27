@@ -1,2 +1,2 @@
 # jamanthi
-# This is a software to generate an API for DB based applications.
+# A new programming language and its ecosystem
