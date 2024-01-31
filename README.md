@@ -13,3 +13,23 @@ The various components involved in a programming language are
 3.  The Parser, which builds a grammer from the output of the tokenizer.
 
 
+The supported tokens are
+()
+{}
+=
++
+-
+*
+/
+%
++=
+-=
+*=
+/+
+>
+>=
+<
+<=
+==
+!=
+strings
